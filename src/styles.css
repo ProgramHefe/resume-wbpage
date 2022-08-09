@@ -7,10 +7,12 @@
 
 .Introduction {
     background-image: linear-gradient(to right, rgba(238, 224, 224, 0.753), rgba(255, 255, 255, 0.747));
+    display: flex;
     justify-content: center;
-    justify-self: flex-start;
-    width: 50%;
+    justify-self: center;
+    width:auto;
     
     
 
 }
+
