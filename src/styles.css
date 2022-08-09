@@ -4,3 +4,13 @@
     color: white;
     
 }
+
+.Introduction {
+    background-color: bisque;
+    justify-content: center;
+    justify-self: flex-start;
+    width: 50%;
+    
+    
+
+}
