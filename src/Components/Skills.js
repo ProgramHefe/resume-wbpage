@@ -4,7 +4,7 @@ function Skills() {
 
     return (
         <div>
-            <h3>Taidot</h3>
+            <h3>Taidot:</h3>
             <ul>
                 <li>React</li>
                 <li>Nodejs</li>
@@ -17,3 +17,5 @@ function Skills() {
         </div>
     )
 }
+
+export default Skills;

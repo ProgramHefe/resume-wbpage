@@ -4,7 +4,7 @@ function Hobbies () {
 
     return(
         <div>
-            <h4>Harrastukset</h4>
+            <h3>Harrastukset:</h3>
             <ul>
                 <li>Kuntosali</li>
                 <li>Maastopyöräily</li>

@@ -5,6 +5,12 @@
     
 }
 
+.Footer {
+    background-color: black;
+    height: 100px;
+    color: white;
+}
+
 .Introduction {
     background-image: linear-gradient(to right, rgba(238, 224, 224, 0.753), rgba(255, 255, 255, 0.747));
     display: flex;
